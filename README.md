@@ -57,4 +57,4 @@ Palabras clave: Regresión No Lineal; Bioestadísticos; Farmacocinética; Ecuaci
  
 \[2] M. A. González-Ayón, J. A. Sañudo-Barajas, L. A. Picos-Corrales, & A. Licea-Claverie, "PNVCL-PEGMA nanohydrogels with tailored transition temperature for controlled delivery of 5-fluorouracil", *Journal of Polymer Science Part A: Polymer Chemistry*, vol. 53, issue 22, pp. 2662–2672, Aug 2015. DOI: https://doi.org/10.1002/pola.27766
  
-\[3] Bryan, Kurt. *Differential equations: A toolbox for modeling the world*. Simiode, 2022. Permalink: https://www.simiode.org/resources/8307 non-Fickian drug release from polymers. Pharmaceutica Acta Helvetiae, 60(4), 110-111.
+
