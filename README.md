@@ -41,12 +41,11 @@ Los datos experimentales corresponden a cuatro hidrogeles de PNVCL-PEGMA con tem
 Palabras clave: Regresión No Lineal; Bioestadísticos; Farmacocinética; Ecuación de Peppas; Gemelos Digitales; Experimentación in silico.
  
 ## Actividades a realizar
-1. Cargar y visualizar los datos experimentales de los cuatro hidrogeles desde el archivo `data.csv`.
-2. Ajustar la **Ecuación de Peppas** ($x(t) = kt^n$) a los datos de cada hidrogel mediante regresión no lineal y reportar los bioestadísticos correspondientes (R², SSE, AICc, intervalos de confianza al 95%).
-3. Ajustar la **función farmacocinética de primer orden** ($x(t) = \beta(1-e^{-kt})$) a los datos de cada hidrogel y comparar los resultados con el modelo de Peppas.
-4. Ajustar la **función de Eureqa** ($x(t) = \rho_1\sqrt{t} - \rho_2 t$) obtenida por regresión simbólica y reportar los bioestadísticos.
-5. Ajustar el **modelo EureqaODE** ($\mathrm{d}x/\mathrm{d}t = \rho_1 - \rho_2 x$) resuelto numéricamente mediante el método de Heun y comparar los cuatro modelos entre sí.
-6. Determinar el mejor modelo para describir la tasa de liberación del hidrogel N36-2MBA3 con base en los criterios estadísticos obtenidos.
+1. Importar y procesar datos experimentales de liberación de fármacos estructurados en tablas de datos.
+2. Desarrollar rutinas en MATLAB para ajustar modelos farmacocinéticos empíricos mediante regresión no lineal.
+3. Integrar numéricamente Ecuaciones Diferenciales Ordinarias utilizando el Método de Heun acoplado a funciones de minimización de error.
+4. Evaluar la certidumbre estadística de cada modelo calculando valores t-student, margen de error e intervalos de confianza (CI95).
+5. Graficar y exportar de forma vectorial las curvas predichas contra los datos experimentales en múltiples paneles.
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
 2. Datos experimentales [.csv].
