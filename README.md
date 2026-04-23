@@ -39,7 +39,7 @@ $$\frac{\mathrm{d}x}{\mathrm{d}t} = \rho_1 - \rho_2\, x$$
  
 Los datos experimentales corresponden a cuatro hidrogeles de PNVCL-PEGMA con temperatura de transición ajustable para la liberación controlada de 5-fluorouracilo: N45-2MBA12, N32, N35-VP15 y N36-2MBA3, medidos en porcentaje de liberación acumulativa de fármaco a lo largo del tiempo (minutos).
  
-Palabras clave: Regresión No Lineal; Bioestadísticos; Farmacocinética; Ecuación de Peppas; Gemelos Digitales; Experimentación in silico.
+Palabras clave: Regresión No Lineal; Bioestadísticos; Farmacocinética; Ecuación de Peppas; Hidrogeles.
  
 ## Actividades a realizar
 1. Importar y procesar datos experimentales de liberación de fármacos estructurados en tablas de datos.
