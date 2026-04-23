@@ -17,7 +17,7 @@ La liberación de fármacos desde matrices poliméricas (como los hidrogeles) es
 1. **Modelo de Korsmeyer-Peppas**: $x(t) = k \cdot t^n$
 2. **Farmacocinética de primer orden**: $x(t) = \beta(1 - e^{-kt})$
 3. **Modelo de ecuaciones empíricas (Eureqa)**: $x(t) = \rho_1 \sqrt{t} - \rho_2 t$
-4. **Modelo mecanicista basado en Ecuaciones Diferenciales Ordinarias (EDO)**: $\frac{dx_1}{dt} = 2.27 - 0.0257 x_1$
+4. **Modelo mecanicista basado en Ecuaciones Diferenciales Ordinarias (EDO)**: $\frac{dx_1}{dt} = \rho_1  - \rho_2 x_1$
 
 Para la resolución del sistema basado en EDOs se utilizan métodos de integración numérica, como el Método de Heun, acoplados al algoritmo de estimación de parámetros para encontrar los valores óptimos. Finalmente, se extraen bioestadísticos de bondad de ajuste, tales como intervalos de confianza, Criterio de Información de Akaike ajustado (AICc) y R-cuadrada.
 
