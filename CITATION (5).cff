@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Caos en sistemas biológicos
+message: >-
+  Gemelos Digitales / Ingeniería Biomédica / Tecnológico
+  Nacional de México
+type: software
+authors:
+  - given-names: Ana K.
+    family-names: Valle
+    email: l22211769@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+    orcid: 'https://orcid.org/0009-0001-1251-4565'
+repository-code: 'https://github.com/AKamilaValle/Practica2GD'
+keywords:
+  - Sistema no lineal
+  - Caos
+  - Estabilidad
+  - Simulaciones numéricas
+  - Cáncer e inmunoterapia
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-03-24'
