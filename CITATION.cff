@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Caos en sistemas biológicos
+title: Liberación controlada de fármacos por hidrogeles
 message: >-
   Gemelos Digitales / Ingeniería Biomédica / Tecnológico
   Nacional de México
@@ -13,13 +13,13 @@ authors:
     email: l22211769@tectijuana.edu.mx
     affiliation: Tecnológico Nacional de México
     orcid: 'https://orcid.org/0009-0001-1251-4565'
-repository-code: 'https://github.com/AKamilaValle/Practica2GD'
+repository-code: 'https://github.com/AKamilaValle/Practica32GD'
 keywords:
-  - Sistema no lineal
-  - Caos
-  - Estabilidad
-  - Simulaciones numéricas
-  - Cáncer e inmunoterapia
+  - Regresión no lineal
+  - Bioestadísticos
+  - Farmacocinética
+  - Ecuación de Peppas
+  - Hidrogeles
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2026-03-24'
+date-released: '2026-04-22'
