@@ -31,11 +31,11 @@ $$x(t) = \beta(1 - e^{-kt})$$
  
 **Eureqa: Función del tiempo:**
  
-$$x(t) = \rho_1 \sqrt{t} - \rho_2\, t$$
+$$x(t) = \rho_1 \sqrt{t} - \rho_2\ t$$
  
 **EureqaODE: Farmacocinética de primer orden:**
  
-$$\frac{\mathrm{d}x}{\mathrm{d}t} = \rho_1 - \rho_2\, x$$
+$$\frac{\mathrm{d}x}{\mathrm{d}t} = \rho_1 - \rho_2\ x$$
  
 Los datos experimentales corresponden a cuatro hidrogeles de PNVCL-PEGMA con temperatura de transición ajustable para la liberación controlada de 5-fluorouracilo: N45-2MBA12, N32, N35-VP15 y N36-2MBA3, medidos en porcentaje de liberación acumulativa de fármaco a lo largo del tiempo (minutos).
  
